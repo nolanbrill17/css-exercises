@@ -5,7 +5,7 @@
     font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
-.middle-number {
+.adjust-font-size {
     font-size: 24px;
 }
 
@@ -16,6 +16,5 @@
 
 #fourth {
     background-color: rgb(144,238,144);
-    font-size: 24px;
     font-weight: bold;
 }
